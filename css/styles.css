@@ -1,7 +1,23 @@
 img {
-  float: right;
-}
-.column {
-  width: 300px;
   float: left;
+  height: 200px;
+  padding-right: 5px;
+}
+
+.aboutme {
+  width:1015px;
+  padding:10px 5px
+}
+
+.column {
+  width: 250px;
+  float: left;
+  padding-left: 5px;
+  padding-right: 5px;
+
+}
+
+body {
+  background-color: white;
+  color: #636363;
 }
