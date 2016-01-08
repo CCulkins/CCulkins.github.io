@@ -24,25 +24,17 @@
   background-color: white;
   padding-left: 5px;
   padding-right: 5px;
-
 }
 
 .columnlist {
-  width: 300px;
+  width: 200px;
   float: left;
-  padding-left: 5px;
-  padding-right: 5px;
-  column-width: 100px;
-
 }
 .columnlist2 {
-  width: 300px;
+  width: 200px;
   float: left;
-  padding-left: 5px;
-  padding-right: 5px;
-  column-width: 100px;
-
 }
+
 
 body {
   background-color: white;
@@ -51,7 +43,7 @@ body {
 }
 
 .projects {
-  padding-top: 125px;
+
   padding-left: 50px;
 
 }
