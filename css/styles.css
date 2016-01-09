@@ -1,16 +1,18 @@
+
+
 .me {
-  float: left;
-  height: 220px;
+  width: 500px;
   padding-right: 5px;
 }
 
 .prev-img {
-
   height: 300px;
   border: 2px solid #636363;
-  padding-bottom: 15px;
+}
 
-
+.AMcolumn {
+  width: 500px;
+  float: left;
 }
 
 .aboutme {
@@ -18,7 +20,6 @@
   padding-left: 50px;
   padding-right: 50px;
 }
-
 
 .column {
   width: 500px;
@@ -32,13 +33,11 @@
   width: 200px;
   float: left;
 }
+
 .columnlist2 {
   width: 200px;
   float: left;
 }
-
-
-
 
 body {
   background-color: white;
@@ -47,27 +46,22 @@ body {
 }
 
 .projects {
-
   padding-left: 50px;
-
 }
-
 
 ol {
-
   padding-bottom: 5px;
-
-
 }
-h2 {
 
+h2 {
   line-height: 70%;
 }
+
 h4 {
   line-height: 60%;
 }
+
 h5 {
   line-height: 60%;
   font-weight: 500;
-
 }
