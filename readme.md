@@ -16,11 +16,11 @@ _I made a webpage with two pages. The first page has an image of myself and some
 
 ## Known Bugs
 
-_{There are no known bugs.}_
+_There are no known bugs._
 
 ## Support and contact details
 
-_{If there are any questions, ideas or concerns, feel free to contact Cassandra Culkins on Github}_
+_If there are any questions, ideas or concerns, feel free to contact Cassandra Culkins on Github_
 
 ## Technologies Used
 
