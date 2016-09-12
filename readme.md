@@ -24,8 +24,8 @@ _If there are any questions, ideas or concerns, feel free to contact Cassandra C
 
 ## Technologies Used
 
-_{HTML, CSS, & Bootstrap were used to create this webpage.}_
+_HTML, CSS, & Bootstrap were used to create this webpage._
 
 ### License
 
-Copyright (c) 2016 **_{Cassandra Culkins}_**
+Copyright (c) 2016 **_Cassandra Culkins_**
